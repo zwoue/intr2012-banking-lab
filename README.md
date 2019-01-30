@@ -1,1 +1,3 @@
-**BANK**
+**BANKING APPLICATION**
+
+A simple banking interface.
